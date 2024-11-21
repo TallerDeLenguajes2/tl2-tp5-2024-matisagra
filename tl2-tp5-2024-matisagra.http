@@ -1,0 +1,6 @@
+@tl2_tp5_2024_matisagra_HostAddress = http://localhost:5104
+
+GET {{tl2_tp5_2024_matisagra_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
